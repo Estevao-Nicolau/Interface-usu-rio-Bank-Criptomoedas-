@@ -1,11 +1,10 @@
 # app_cripto
 
-A new Flutter module project.
+## Interface
 
-## Getting Started
+<h4 align="center"> 
+    :construction:  Gráfico em Construção  :construction:
+</h4>
 
-For help getting started with Flutter development, view the online
-[documentation](https://flutter.dev/).
+https://user-images.githubusercontent.com/79880613/186986311-2ded202c-b262-44ae-bfd2-53e3412fc238.mov
 
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
